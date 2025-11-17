@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Jimmy Pang 👋
 
-<!--
-**davnnis2003/davnnis2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Leader | Evangelist | Educator**
 
-Here are some ideas to get you started:
+Based in Berlin, Germany, I'm dedicated to the data journey—building scalable data platforms, empowering teams, and sharing knowledge with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🔭 Currently working as a Senior Data/BI Leader at Vestiaire Collective
+- 🌱 Exploring AI agents, LLMs, and data operations optimization
+- 💡 Passionate about data engineering, analytics, and modern data stacks
+- ✍️ Writing about data and tech on [Medium](https://jimmypang.medium.com/)
+- 📍 Living in Berlin, learning German (B1 level)
+- 💬 Ask me about: dbt, Snowflake, Kafka, data pipelines, and BI architecture
+
+---
+
+## Tech Stack
+
+**Data & Analytics:**
+- SQL, Python, dbt, Snowflake, Kafka
+- Business Intelligence & Data Visualization
+- Data Engineering & Pipeline Architecture
+
+**Tools & Platforms:**
+- Perplexity AI, Notion, GitHub, Google Workspace
+- Cloud Data Platforms & Data Ops
+
+---
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+Check out my latest articles on [Medium](https://jimmypang.medium.com/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Connect With Me
+
+- 🌐 Blog: [jimmypang.medium.com](https://jimmypang.medium.com/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/jimmypang/)
+- 📧 Open to collaboration and interesting data projects
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=davnnis2003&color=blue)
+
+*Powered by curiosity and caffeine ☕*
