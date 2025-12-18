@@ -58,6 +58,9 @@ Leadership frameworks, architecture documentation, and technical case studies fr
 ### 📝 [Technical Writing](https://jimmypang.medium.com/)
 Data thought leadership on Medium covering analytics engineering, team building, and modern data stacks
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 🔧 Private Repositories
 Production-grade implementations of dbt projects, Terraform infrastructure, and Airflow orchestration (available for review upon request)
 
