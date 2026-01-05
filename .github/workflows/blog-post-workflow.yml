@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull in Medium posts
+        uses: actions/checkout@v4
+      - name: Pull in Substack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jimmypang.medium.com/feed"
+          feed_list: "https://jimmypang.substack.com/feed"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
