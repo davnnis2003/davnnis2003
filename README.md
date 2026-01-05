@@ -111,6 +111,6 @@ Featured articles:
 - ✍️ **Substack:** [jimmypang.substack.com](https://jimmypang.substack.com/)
 - 📧 **Email:** jimmy.pang2022@proton.me
 - 🌍 **Location:** Berlin, Germany 🇩🇪
-- 🗣️ **Languages:** English (Fluent), German (B1), Cantonese (Native)
+- 🗣️ **Languages:** English (Fluent), Cantonese (Native), Mandarin Chinese, German (B1)
 
 "Building data platforms that empower people to make better decisions"
