@@ -70,11 +70,8 @@ Led analytics across 7 business domains: Trust & Safety (Fraud, Warehouse Authen
 
 🔒 *Enterprise code sanitized for confidentiality—full architecture documentation available upon request*
 
-### 📚 Technical Writing
-**Medium:** [jimmypang.medium.com](https://jimmypang.medium.com/)  
-**Substack:** [jimmypang.substack.com](https://jimmypang.substack.com/)
-
-Data thought leadership covering analytics engineering, team building, and modern data stacks
+### 📝 [Data Biz (Substack)](https://jimmypang.substack.com/)
+Data thought leadership on Substack (Data Biz) covering analytics engineering, team building, and modern data stacks
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -117,8 +114,7 @@ Data thought leadership covering analytics engineering, team building, and moder
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/jimmy-pang-hk603](https://www.linkedin.com/in/jimmy-pang-hk603/)
-- ✍️ **Medium:** [jimmypang.medium.com](https://jimmypang.medium.com/)
-- 📝 **Substack:** [jimmypang.substack.com](https://jimmypang.substack.com/)
+- ✍️ **Substack:** [jimmypang.substack.com](https://jimmypang.substack.com/)
 - 📧 **Email:** jimmy.pang2022@proton.me
 - 🌍 **Location:** Berlin, Germany 🇩🇪
 - 🗣️ **Languages:** English (Fluent), German (B1), Cantonese (Native)
